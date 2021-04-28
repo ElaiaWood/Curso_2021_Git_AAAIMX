@@ -31,3 +31,7 @@ Para ejecutar la preview de nuestro archivo oprima: Ctrl + Shift + v
 
 ## git restore <nombre_del_archivo>
 >Funciona de manera parecida al reset -- soft, pero no borra de manera permanente lo que está en memoria ram
+
+## git brach <nombre_de_la_rama>
+> Sirve para crear una rama
+
